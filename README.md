@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Priyanshu-cse-04/DSA/tree/master/0004-median-of-two-sorted-arrays) |
+| [0018-4sum](https://github.com/Priyanshu-cse-04/DSA/tree/master/0018-4sum) |
 | [0045-jump-game-ii](https://github.com/Priyanshu-cse-04/DSA/tree/master/0045-jump-game-ii) |
 ## Binary Search
 |  |
@@ -27,4 +28,12 @@
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/Priyanshu-cse-04/DSA/tree/master/0045-jump-game-ii) |
+## Two Pointers
+|  |
+| ------- |
+| [0018-4sum](https://github.com/Priyanshu-cse-04/DSA/tree/master/0018-4sum) |
+## Sorting
+|  |
+| ------- |
+| [0018-4sum](https://github.com/Priyanshu-cse-04/DSA/tree/master/0018-4sum) |
 <!---LeetCode Topics End-->
